@@ -8,3 +8,6 @@ Update:
 >https://7hvvwl3z9e.execute-api.us-east-1.amazonaws.com/stage_data/update-data
 Delete:
 >https://7hvvwl3z9e.execute-api.us-east-1.amazonaws.com/stage_data/delete/3
+
+DB:
+> https://us-east-1.console.aws.amazon.com/dynamodbv2/home?region=us-east-1#item-explorer?table=Products
