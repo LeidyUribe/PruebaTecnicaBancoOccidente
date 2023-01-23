@@ -1,0 +1,10 @@
+Methods list
+
+list:
+>https://7hvvwl3z9e.execute-api.us-east-1.amazonaws.com/stage_data/items
+Save:
+> https://7hvvwl3z9e.execute-api.us-east-1.amazonaws.com/stage_data/save-data
+Update:
+>https://7hvvwl3z9e.execute-api.us-east-1.amazonaws.com/stage_data/update-data
+Delete:
+>https://7hvvwl3z9e.execute-api.us-east-1.amazonaws.com/stage_data/delete/3
